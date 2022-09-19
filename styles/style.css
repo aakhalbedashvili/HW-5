@@ -1,0 +1,141 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 100%;
+	font-family:"Arial GEO", sans-serif;;
+}
+
+a{
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+	width: 1475px;
+	heigh: 91px;
+	display: inline;
+}
+header{
+	background-color: #0020F4;
+	height: 387.56px;
+}
+header img{
+	width: 115px;
+	height: 65px;
+	margin-top: 40px;
+	margin-left: 240px;
+	display: inline;
+	vertical-align: middle;
+}
+
+.navigation{
+	width: 1475px;
+	height: 91px;
+	margin-top: 27px;
+	display: inline;
+	vertical-align: middle;
+	margin-left: 603px;
+
+}
+li{
+	display: inline;
+}
+.navigation a{
+	color: #FFFFFF;
+	text-decoration: none;
+	margin-right: 18px;
+
+
+
+}
+
+.button {
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 28px;
+    color: #171717;
+    padding: 18px 36px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;}
+
+.main-image {
+   	border-radius: 15px;
+   	width: 1195px;
+   	height: 600px;
+   	margin-bottom: 30px;
+   } 
+.core-section{
+	width: 1195px;
+    background-color: #FFFFFF;
+	margin: auto;
+}
+
+h3 {width: 714px;
+    height: 33px;
+    color: #171717;
+    font-size: 28px;}
+.images{
+   	width: 1195px;
+   	margin-top: 60px;
+   	margin-bottom: 60px;
+}
+
+.images img{
+	width: 219px;
+	height: 219px;
+	margin-right: 16px;
+}
+/*suratebze kitxva: bolo surats rom agar hqondes margin right rogor chavxsna id-is gamoyenebis gareshe*/
+.p1	{
+	width: 951px;
+	height: 177px;
+	margin-right: 109.5px;
+    margin-left: 109.5px;
+	margin-bottom: 8px;
+}
+.p2{
+	width: 951px;
+	height: 281px;
+	margin-right: 109.5px;
+    margin-left: 109.5px;
+	margin-bottom: 8px;
+}
+.p3{
+	width: 951px;
+	height: 151px;
+	margin-right: 109.5px;
+    margin-left: 109.5px;
+	margin-bottom: 60px;
+}
+.paragrapebi{
+   color: #171717;
+   font-size: 16px;
+   line-height: 26px;
+   
+}
+
+.additional {
+    background-color: #0A22F4;
+    border: none;
+    border-radius: 28px;
+    color: #FFFFFF;
+    padding: 18px 36px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-left: 428px;
+    margin-right: 428px;
+    margin-right: ;
+    margin-bottom: 180px;
+ }
+
+ footer{
+ 	height: 1080px;
+ 	background-color: #0A22F4;
+ 	color: #FFFFFF;
+ }
